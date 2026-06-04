@@ -36,7 +36,7 @@ Germany, France, Italy, Norway, Netherlands, Switzerland, Hungary, Spain, United
 ## Dataset
 
 - **Source:** Our World in Data — CO₂ and Greenhouse Gas Emissions dataset
-- **Repository:** 
+- **Repository:** https://github.com/ulmekenshaidyr/CO-Emissions-Analysis-European-Countries-2018-2024.git
 - **File used:** `owid-co2-data.csv`
 - **Years covered:** 2018–2024
 
