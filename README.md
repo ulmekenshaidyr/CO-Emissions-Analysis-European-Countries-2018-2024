@@ -71,8 +71,8 @@ jupyter notebook CO2_Emissions_Analysis_European_Countries_2018_2024.ipynb
 
 Ulmeken Shaidyr
 - Environmental Engineering MSc
-- [LinkedIn](#) *(add your LinkedIn URL)*
-- [Kaggle](#) *(add your Kaggle profile URL)*
+- [LinkedIn](#) (www.linkedin.com/in/ulmeken-shaidyr-7b2288223)
+- [Kaggle](#) (https://www.kaggle.com/ulmekenshaidyr)
 
 ---
 
